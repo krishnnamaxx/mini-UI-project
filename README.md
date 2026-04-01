@@ -18,7 +18,7 @@ This project focuses on clean design, reusable components, and real-world layout
 ## 📸 Preview
 
 
-/assets/preview.png
+![Preview](./src/assets/preview.png)
 
 
 ## 🛠️ Tech Stack
